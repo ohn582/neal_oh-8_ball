@@ -36,3 +36,84 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+/*--------------------------------| Main CSS Styles For this project |-------------------------------------*/
+
+/* Main Title Style */
+.mainTitle {
+  text-align: center;
+  font-family: Josefin Sans;
+  font-size: 60px;
+  color: #fff;
+  width: device-width;
+}
+
+/* 8-Ball Image */
+img.magicBall{
+  display: block;
+  margin: 0 auto;
+  width: 30%;
+  height: auto;
+}
+
+/* Text 'Query Result' Font Style */
+.qr{
+  text-align: center;
+  font-family: Josefin Sans;
+  font-size: 20px;
+  color: #fff;
+}
+
+/* Positioning the 'From' from the JSX */
+.textForm{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* The text box in the form */
+.textBox{
+  width: 20%;
+}
+
+/* Positioning the response from JSX */
+.response{
+  text-align: center;
+  font-family: Josefin Sans;
+  font-size: 20px;
+  color: #fff;
+}
+
+
+
+
+
+
+/* Lines 97 - 116: Having the buttons to change colors for both 
+"Submit" and "History" every time the mouse hovers over the button. */
+.close {
+  background-color: #f25f25;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.close:hover {
+  background-color:#25b8f2;
+  color: rgb(255, 255, 255);
+}
+
+
