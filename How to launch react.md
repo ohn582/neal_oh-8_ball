@@ -2,7 +2,7 @@
 
 2. After deleating the JSON file, go to your terminal and type 'cd desktop'
 
-3. Once you get into your desktop, then type 'cd neal_oh-assessment-magic_8_ball'  
+3. Once you get into your desktop, then type 'cd neal_oh-8_ball-main'  
 
 4. Once you get into my project, type 'npm install'
 
